@@ -1,0 +1,7 @@
+python -m venv venv
+
+venv\Scripts\activate.bat
+
+pip install bs4
+
+pip install selenium
